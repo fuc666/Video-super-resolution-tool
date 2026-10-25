@@ -1,5 +1,5 @@
 # Video-super-resolution-tool
-支持在线超分bilibili和youtube视频，最高可支持超分到4k，支持批量导入本地视频
+基于anime4k的超分工具，支持在线超分bilibili和youtube视频，最高可支持超分到4k，支持批量导入本地视频
 ## 技术栈与致谢 / Tech Stack & Acknowledgements
 
 本项目使用了以下开源技术 / This project uses the following open-source technologies:
